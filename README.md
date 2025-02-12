@@ -51,4 +51,8 @@ Collect items to increase your score!
 - Add more levels with increasing difficulty
 - Improve graphics & UI elements
 
+## 📩 Contact
+For more about me, check out my **GitHub Profile README**:  
+🔗 [github.com/belladasilva](https://github.com/belladasilva)
+
 ⭐ If you like this project, give it a star on GitHub! 🌟
